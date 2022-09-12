@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "patikapp",
+    "slug": "patikapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "patikapp"
+}
